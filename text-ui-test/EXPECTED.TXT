@@ -7,3 +7,6 @@
 
 > What can I do for you today? : )
 
+     -----------------------------------------
+     Here are the tasks in your list:
+     -----------------------------------------
